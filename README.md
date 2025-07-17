@@ -7,19 +7,6 @@ Welcome to my **Java Fundamentals Portfolio**, a curated collection of beginner-
 
 This repository is organized into folders and standalone `.java` files representing distinct learning topics:
 
-### 🔹 Folder Structure
-
-| Folder / File               | Description                                                   |
-|----------------------------|---------------------------------------------------------------|
-| `Basics_Java/`             | Covers basic syntax, variables, data types, and typecasting   |
-| `conditionals and loop/`   | Programs using `if`, `switch`, and looping constructs         |
-| `Arrays_Java/`             | Programs related to array creation, iteration, and operations |
-| `First.java`               | Classic “Hello World” program                                 |
-| `Inputs.java`              | User input with `Scanner`                                     |
-| `Calculation.java`         | Basic arithmetic and expressions                              |
-| `Mydatatype.java`          | Practical use of data types                                   |
-| `Typecasting.java`         | Type conversion (widening and narrowing)                      |
-| `Temperature.java`         | Conversion logic (e.g., Celsius ↔ Fahrenheit)                 |
 
 ---
 
@@ -47,7 +34,11 @@ This repository is organized into folders and standalone `.java` files represent
 - `if`, `else if`, and `else` conditions
 - `switch-case` branching for multiple choice logic
 
-### 🔁 Looping Constructs
+### 🔁 Functions
+- return type
+- no return type
+
+  ### 🔁 Looping Constructs
 - `for`, `while`, and `do-while` loops
 - Loop control using `break` and `continue`
 
