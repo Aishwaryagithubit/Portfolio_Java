@@ -31,7 +31,7 @@ This repository is organized into folders and standalone `.java` files represent
 - Logical and assignment operations
 
 ### 🔀 Conditional Statements
-- `if`, `else if`, and `else` conditions
+- if, else if, and else conditions
 - `switch-case` branching for multiple choice logic
 
 ### 🔁 Functions
