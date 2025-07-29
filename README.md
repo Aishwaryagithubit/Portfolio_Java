@@ -47,6 +47,8 @@ This repository is organized into folders and standalone `.java` files represent
 - Iterating with loops
 - Basic operations: searching, summing, and printing
 
+
+###  Linear Search
 ---
 
 
