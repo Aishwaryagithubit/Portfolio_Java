@@ -1,14 +1,6 @@
 # Portfolio_Java
 Welcome to my **Java Fundamentals Portfolio**, a collection of beginner to intermediate level Java programs developed as part of my learning journey. This repository demonstrates core programming concepts using Java including data types, control structures, user input, and array handling through simple, well-structured examples and Object-Oriented Programming concepts.
 
----
-
-## 📁 Repository Overview
-
-This repository is organized into folders and standalone `.java` files representing distinct learning topics:
-
-
----
 
 ## 💡 Key Concepts Demonstrated
 
