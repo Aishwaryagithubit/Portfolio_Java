@@ -1,4 +1,3 @@
-
 public class Numbers {
     public static void main(String[] args) {
        int [] nums = {1,32,57,44,67,111,-20};
