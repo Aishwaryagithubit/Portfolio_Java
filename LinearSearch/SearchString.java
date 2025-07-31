@@ -3,8 +3,6 @@ public class SearchString {
         String name = "Durga";
         char target = 'a';
         System.out.println(Search(name,target));
-
-
     }
 
     static boolean Search(String str, char target){
