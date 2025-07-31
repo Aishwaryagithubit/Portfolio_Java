@@ -7,6 +7,7 @@ public class Numbers {
     }
 
     //return index 1 otherwise -1
+    
     static int Findnum(int[]arr , int target){
         if(arr.length==0){
             return -1;
