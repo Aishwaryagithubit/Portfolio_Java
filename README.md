@@ -7,15 +7,15 @@ Welcome to my **Java Fundamentals Portfolio**, a collection of beginner to inter
 ### ✅ Java Basics
 - Program structure and syntax
 - Printing to the console
-- Writing your first Java class and `main()` method
+- Writing your first Java class and main() method
 
 ### 🔢 Variables & Data Types
-- Primitive types: `int`, `double`, `char`, `boolean`
-- Non-primitive type: `String`
+- Primitive types: int, double, char, boolean
+- Non-primitive type: String
 - Typecasting and constants
 
 ### 📥 Input & Output
-- Using the `Scanner` class for user input
+- Using the Scanner class for user input
 - Handling different input types (string, integer, float, etc.)
 
 ### ➗ Operators & Expressions
