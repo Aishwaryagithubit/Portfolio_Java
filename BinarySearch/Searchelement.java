@@ -5,6 +5,7 @@ public class Searchelement {
        int ans = BinSearch(arr,target);
         System.out.println(ans);
     }
+    
     static int BinSearch(int[]arr, int target){
         int start = 0;
         int end = arr.length-1;
@@ -28,4 +29,5 @@ public class Searchelement {
         return -1;
     }
 }
+
 
