@@ -1,5 +1,6 @@
 public class Searchelement {
     public static void main(String[] args) {
+        
        int[] arr = {2,4,6,7,9,22,34};
        int target = 9;
        int ans = BinSearch(arr,target);
@@ -29,5 +30,6 @@ public class Searchelement {
         return -1;
     }
 }
+
 
 
