@@ -19,5 +19,5 @@ public class Str_array {
         System.out.println(Arrays.toString(str));
     }
 
-
 }
+
