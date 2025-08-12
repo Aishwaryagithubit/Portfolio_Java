@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Typecasting {
    public static void main(String[]args){
+      
        Scanner s = new Scanner(System.in);
 
        //automatic typecasting
@@ -38,3 +39,4 @@ public class Typecasting {
 
    }
 }
+
