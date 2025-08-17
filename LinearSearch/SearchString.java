@@ -4,7 +4,7 @@ public class SearchString {
         char target = 'a';
         System.out.println(Search(name,target));
     }
-
+    
     static boolean Search(String str, char target){
         //calling length()
         if(str.length() == 0){
@@ -18,3 +18,4 @@ public class SearchString {
         return false;
     }
 }
+
