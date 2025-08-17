@@ -13,7 +13,7 @@ public class Search2D {
         int[] ans = search(arr, target);
         System.out.println(Arrays.toString(ans));
     }
-
+    
     static int[] search(int[][] arr, int target) {
         for (int row = 0; row < arr.length; row++) {
             for (int col = 0; col < arr[row].length; col++) { // Fix: use arr[row].length
@@ -25,3 +25,4 @@ public class Search2D {
         return new int[]{-1, -1};
     }
 }
+
