@@ -8,9 +8,10 @@ public class Inputs {
         System.out.print("Enter your ID: ");
         int id = s.nextInt();
         System.out.println("My name is " + name);
-        System.out.println("ID is " + id);
+        System.out.println("ID: " + id);
         s.close(); // It's good practice to close the scanner
     }
 }
+
 
 
