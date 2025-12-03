@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Search2D {
     public static void main(String[] args) {
         int[][] arr = {
-                {2, 3, 4},
+                {2, 3, 5},
                 {12, 24, 19, 9},
                 {23, 56, 45, 66},
                 {12, 1}
@@ -25,4 +25,5 @@ public class Search2D {
         return new int[]{-1, -1};
     }
 }
+
 
