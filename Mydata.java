@@ -4,7 +4,7 @@ public class Mydata {
          int num = 800000;
          float num1 = 4572.78f;
          boolean value = true;
-         String name = "Aishwarya";
+         String name = "Aishu";
          char Section = 'A';
           
          System.out.println("Number is " + num);
@@ -14,6 +14,7 @@ public class Mydata {
          System.out.println("Section is " + Section);
      }
 }
+
 
 
 
