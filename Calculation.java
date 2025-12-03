@@ -16,7 +16,8 @@ public class Calculation {
         System.out.println("Sum of" + num1 + "and"+ num2 +"is"+ sum);
         System.out.println("Substraction of" + num1 + "and"+ num2 +"is"+ sub);
         System.out.println("Multiplication of" + num1 + "and"+ num2 +"is"+ multi);
-        System.out.println("Division of" + num1 + "and"+ num2 +"is"+ div);
+        System.out.println("Division of:" + num1 + "and"+ num2 +"is"+ div);
         System.out.println("Remainder division of" + num1 + "and"+ num2 +"is"+ rem_div);
     }
 }
+
