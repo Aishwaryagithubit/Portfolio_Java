@@ -1,7 +1,7 @@
 public class Numbers {
     public static void main(String[] args) {
        int [] nums = {1,32,57,44,67,111,-20};
-       int target = 67;
+       int target = 111;
        int ans = Findnum(nums,target);
         System.out.println(ans);
     }
@@ -23,5 +23,6 @@ public class Numbers {
         return -1;
     }
 }
+
 
 
