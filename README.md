@@ -39,8 +39,9 @@ Welcome to my **Java Fundamentals Portfolio**, a collection of beginner to inter
 - Iterating with loops
 - Basic operations: searching, summing, and printing
 
+### Class
+
 
 ###  Linear Search
----
 
 
