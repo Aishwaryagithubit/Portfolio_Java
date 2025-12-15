@@ -1,7 +1,7 @@
 public class RangeSearch {
     public static void main(String[] args) {
      int [] nums = {19,11,-7,30,15,27};
-     int target = 3;
+     int target = 4;
         System.out.println(rangecheck(nums, target, 1,5));
     }
 
@@ -21,3 +21,4 @@ public class RangeSearch {
         return -1;
     }
 }
+
