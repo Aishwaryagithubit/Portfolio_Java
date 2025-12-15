@@ -5,7 +5,7 @@ public class RangeSearch {
         System.out.println(rangecheck(nums, target, 1,5));
     }
 
-    // start to end range
+    // start to end the range
     static int rangecheck(int [] arr, int target, int start , int end){
         if(arr.length == 0){
             return -1;
@@ -21,5 +21,6 @@ public class RangeSearch {
         return -1;
     }
 }
+
 
 
