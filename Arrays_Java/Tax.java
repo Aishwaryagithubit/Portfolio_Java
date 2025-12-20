@@ -5,6 +5,7 @@ public class Tax {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter your income in lakh");
         float income = s.nextFloat();
+        
         if(income>=2.5 && income<5.0){
             System.out.println("pay tax 5%"+ "for" + income+"L");
         }
@@ -20,4 +21,5 @@ public class Tax {
 
     }
 }
+
 
