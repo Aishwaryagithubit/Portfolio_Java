@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Tax {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
@@ -19,3 +20,4 @@ public class Tax {
 
     }
 }
+
