@@ -2,10 +2,13 @@ import java.util.Scanner;
 
 public class Calculation {
     public static void main(String[]args){
+        
         Scanner s = new Scanner(System.in);
         System.out.println("Enter a number: ");
+        
         int num1 = s.nextInt();
         System.out.println("Enter a number: ");
+        
         int num2 = s.nextInt();
         int sum = num1 + num2 ;
         int sub = num1 - num2 ;
@@ -20,4 +23,5 @@ public class Calculation {
         System.out.println("Remainder division of" + num1 + "and"+ num2 +"is"+ rem_div);
     }
 }
+
 
