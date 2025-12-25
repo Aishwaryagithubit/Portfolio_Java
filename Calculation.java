@@ -14,7 +14,7 @@ public class Calculation {
         int sub = num1 - num2 ;
         int multi = num1 * num2 ;
         int div = num1 / num2 ;
-        int rem_div = num1 % num2 ;
+        int remainder_div = num1 % num2 ;
 
         System.out.println("Sum of" + num1 + "and"+ num2 +"is"+ sum);
         System.out.println("Substraction of" + num1 + "and"+ num2 +"is"+ sub);
@@ -23,5 +23,6 @@ public class Calculation {
         System.out.println("Remainder division of" + num1 + "and"+ num2 +"is"+ rem_div);
     }
 }
+
 
 
