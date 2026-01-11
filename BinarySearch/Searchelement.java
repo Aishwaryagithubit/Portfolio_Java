@@ -2,7 +2,7 @@ public class Searchelement {
     public static void main(String[] args) {
         
        int[] arr = {2,4,6,7,9,22,34};
-       int target = 6;
+       int target = 5;
        int ans = BinSearch(arr,target);
         System.out.println(ans);
     }
@@ -31,6 +31,7 @@ public class Searchelement {
         return -1;
     }
 }
+
 
 
 
