@@ -5,6 +5,7 @@ public class Str_array {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("enter strings: ");
+        
         //declare array name
         String [] str = new String[4];
         for(int i = 0;i<str.length;i++){
@@ -20,5 +21,6 @@ public class Str_array {
     }
 
 }
+
 
 
