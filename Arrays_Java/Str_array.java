@@ -12,7 +12,7 @@ public class Str_array {
              str[i] = s.next();
         }
 
-        // converts to string and print string
+        // converts into string and print string
         System.out.println(Arrays.toString(str));
         str[3] = "Dr. Jhatka";
 
@@ -20,4 +20,5 @@ public class Str_array {
     }
 
 }
+
 
