@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Str_array {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        System.out.println("enter strings: ");
+        System.out.println("enter string: ");
         
         //declare array name
         String [] str = new String[4];
@@ -21,6 +21,7 @@ public class Str_array {
     }
 
 }
+
 
 
 
