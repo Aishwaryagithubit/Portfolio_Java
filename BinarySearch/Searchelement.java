@@ -12,6 +12,7 @@ public class Searchelement {
         int end = arr.length-1;
 
         while(start<= end){
+            
             //find middle element
             int mid = start + (end-start)/2;
 
@@ -30,6 +31,7 @@ public class Searchelement {
         return -1;
     }
 }
+
 
 
 
