@@ -5,7 +5,7 @@ public class Search2D {
         int[][] arr = {
                 {2, 3, 5},
                 {12, 24, 19, 9},
-                {23, 56, 47, 66},
+                {23, 56, 47, 65},
                 {12, 1}
         };
 
@@ -25,6 +25,7 @@ public class Search2D {
         return new int[]{-1, -1};
     }
 }
+
 
 
 
