@@ -23,8 +23,7 @@ public class Searchelement {
             else if(target > arr[mid]){
                 start = mid + 1;
 
-            }
-                
+            }    
             else{
                 return mid;
             }
@@ -32,6 +31,7 @@ public class Searchelement {
         return -1;
     }
 }
+
 
 
 
