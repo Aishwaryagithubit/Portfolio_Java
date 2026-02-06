@@ -13,7 +13,7 @@ public class Searchelement {
 
         while(start<=end){
             
-            //find middle element
+            //find the middle element
             int mid = start + (end-start)/2;
 
             if(target < arr[mid]) {
@@ -32,6 +32,7 @@ public class Searchelement {
         return -1;
     }
 }
+
 
 
 
